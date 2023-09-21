@@ -1,0 +1,19 @@
+@fcc:registry=https://artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/
+@fcchome:registry=https://artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/
+//artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/:_password=QVBBd0NvZm5wV1ZwdFBtNkdMTk5NWnlKaFBL
+//artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/:username=srv-d-fcc
+//artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/:email=youremail@email.com
+//artifactory.raiffeisen.ru/artifactory/api/npm/fcc-d-npm/:always-auth=true
+registry=https://artifactory.raiffeisen.ru/artifactory/api/npm/npm/
+//artifactory.raiffeisen.ru/artifactory/api/npm/npm/:_password=QVBBd0NvZm5wV1ZwdFBtNkdMTk5NWnlKaFBL
+//artifactory.raiffeisen.ru/artifactory/api/npm/npm/:username=srv-d-fcc
+//artifactory.raiffeisen.ru/artifactory/api/npm/npm/:email=youremail@email.com
+//artifactory.raiffeisen.ru/artifactory/api/npm/npm/:always-auth=true
+_auth = c3J2LWQtZmNjOkFQQXdDb2ZucFdWcHRQbTZHTE5OTVp5SmhQSw==
+email = youremail@email.com
+always-auth = true
+strict-ssl = false
+fetch-retry-maxtimeout=120000
+fetch-retry-mintimeout=10000
+fetch-timeout=600000
+fetch-retries=10
